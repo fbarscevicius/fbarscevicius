@@ -19,8 +19,7 @@ Notes, essays, and build-logs. AI and machine learning, cognition and health, te
 - [a tool for thinking](https://anvilwright.com/writing/a-tool-for-thinking/) <sub>2026-06-06</sub>
 - [the reps you stop taking](https://anvilwright.com/writing/the-reps-you-stop-taking/) <sub>2026-06-01</sub>
 - [a compression of a compression](https://anvilwright.com/writing/a-compression-of-a-compression/) <sub>2026-05-31</sub>
-- [the brain drives the tool](https://anvilwright.com/writing/the-brain-drives-the-tool/) <sub>2026-05-22</sub>
-<!-- BLOG-POST-LIST:END -->
+- [the brain drives the tool](https://anvilwright.com/writing/the-brain-drives-the-tool/) <sub>2026-05-22</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>[All writing on anvilwright.com](https://anvilwright.com/writing) &rarr;</sub>
 
