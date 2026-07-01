@@ -22,5 +22,7 @@ jobs:
           max_post_count: 5
           # dateformat tokens: lowercase mm is month, capital MM is minutes.
           date_format: "yyyy-mm-dd"
-          template: "- [$title]($url) <sub>$date</sub>$newline"
+          # Lead each item with a newline so the first item is not glued onto the
+          # same line as the START comment (which would render as raw text).
+          template: "$newline- [$title]($url) <sub>$date</sub>"
           commit_message: "sync writing list from feed"
