@@ -15,11 +15,11 @@ Staff-level, eight years in. Specialized in NLP and LLMs, fine-tuning language m
 Notes, essays, and build-logs. AI and machine learning, cognition and health, technology, leadership, building software, philosophy. Published on [anvilwright.com](https://anvilwright.com/writing).
 
 <!-- BLOG-POST-LIST:START -->
+- [three kinds of nothing](https://anvilwright.com/writing/three-kinds-of-nothing/) <sub>2026-07-03</sub>
 - [no one in particular](https://anvilwright.com/writing/no-one-in-particular/) <sub>2026-06-08</sub>
 - [a tool for thinking](https://anvilwright.com/writing/a-tool-for-thinking/) <sub>2026-06-06</sub>
 - [the reps you stop taking](https://anvilwright.com/writing/the-reps-you-stop-taking/) <sub>2026-06-01</sub>
-- [a compression of a compression](https://anvilwright.com/writing/a-compression-of-a-compression/) <sub>2026-05-31</sub>
-- [the brain drives the tool](https://anvilwright.com/writing/the-brain-drives-the-tool/) <sub>2026-05-22</sub><!-- BLOG-POST-LIST:END -->
+- [a compression of a compression](https://anvilwright.com/writing/a-compression-of-a-compression/) <sub>2026-05-31</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>[All writing on anvilwright.com](https://anvilwright.com/writing) &rarr;</sub>
 
